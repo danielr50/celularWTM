@@ -1,0 +1,14 @@
+/*aqui css*/
+
+body {
+	background: lightgrey;
+	text-align: center;
+}
+
+.fotos{
+	width:40%;
+}
+
+ul{
+	list-style:none;
+}
